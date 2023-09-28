@@ -1,8 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-namespace Memezuki.GameplayAbilitySystem
+namespace Memezuki.GameplayAbilitySystem.Enums
 {
     /// <summary>
     /// 描述持續時間類型的列舉
