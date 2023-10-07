@@ -17,5 +17,8 @@
     "email": "zhikuan0322@gmail.com",
     "url": "https://www.unity3d.com"
   },
-  "description": "A package for Ability, Attributes, Tag systems"
+  "description": "A package for Ability, Attributes, Tag systems",
+  "dependencies": {
+    "com.cysharp.unitask": "2.4.1"
+  }
 }
