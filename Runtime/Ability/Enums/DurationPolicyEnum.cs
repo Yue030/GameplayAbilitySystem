@@ -1,4 +1,4 @@
-namespace Memezuki.GameplayAbilitySystem.Enums
+namespace Memezuki.GameplayAbilitySystem.Ability.Enums
 {
     /// <summary>
     /// 描述持續時間類型的列舉
